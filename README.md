@@ -5,7 +5,7 @@ Collection of cyber security tools and scripts developed
 Collection of scripts in bash for different security situations
 
 ## WP-plugin-inspector (work in progress)
-This is a wordpress plugin that secures the all other plugins inside the "wp-content/wp-plugin/" folder of your wordpress site.
+This is a wordpress plugin that secures all other plugins inside the "wp-content/wp-plugin/" folder of your wordpress site.
 #### It incoperates :
 - hashing the plugins and storing them to monitor for any changes in the future.
 - plugin backups on your choices of local server(separate folder), google drive, onedrive or git
