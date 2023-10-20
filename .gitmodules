@@ -1,3 +1,6 @@
 [submodule "wp-plugin-inspector"]
 	path = wp-plugin-inspector
 	url = https://github.com/marshallfungai/wp-plugin-inspector.git
+[submodule "bash"]
+	path = bash
+	url = https://github.com/marshallfungai/bash.git
