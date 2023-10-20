@@ -1,0 +1,3 @@
+[submodule "wp-plugin-inspector"]
+	path = wp-plugin-inspector
+	url = https://github.com/marshallfungai/wp-plugin-inspector.git
