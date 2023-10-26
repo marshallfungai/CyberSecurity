@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/dradis/reports":{"create":true,"owner":9001,"group":9001,"mount_options":["dmode=775","fmode=664","uid=9001","gid=9001","_netdev"],"guestpath":"/home/dradis/reports","hostpath":"C:/Users/marshall.m/Documents/CyberSecurity/dradis-vagrant/dradis/reports","disabled":false,"__vagrantfile":true}}}
