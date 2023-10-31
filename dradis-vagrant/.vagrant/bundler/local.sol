@@ -1,1 +1,0 @@
-{"dependencies":[["os",[">= 0"]],["vagrant-goodhosts",["= 1.1.6"]]],"checksum":"64e0e2144f18cf063f972c46e060dd8790513370a60c45b45e2b2da06b03f00d","vagrant_version":"2.3.7"}
