@@ -1,0 +1,3 @@
+[submodule "dradis-ce"]
+	path = dradis-ce
+	url = https://github.com/marshallfungai/dradis-ce.git
